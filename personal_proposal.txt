@@ -1,0 +1,14 @@
+Name: Benjamin Pettis
+
+Stack: JavaScript/MERN
+
+GitHub Repo link: https://github.com/da13oss/fureverhome
+
+Project name: FurEver Homes
+
+Project description: When I moved to Oklahoma I was having issues locating a shelter to look for a pet. I wanted to create a website that I could search for shelters, events, 
+and have a single place to find this information.
+
+MVP (Minimum Viable Product) features: User Login DB, Events (Add and Remove), Embed a Map API into a page to search for shelters with their descriptions accessable.
+
+Bonus feature(s): Login and Registration Validation, Third
